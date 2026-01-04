@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Ankit Kapoor",
+    "age": 25,
+    "city": "Jammu",
+    "role": "Software Developer"
+  },
+  {
+    "id": 2,
+    "name": "Chandan Bhasin",
+    "age": 30,
+    "city": "New Delhi",
+    "role": "Doctor"
+  },
+  {
+    "id": 3,
+    "name": "Ankit",
+    "city": "Jammu",
+    "role": "admin",
+    "age": 22
+  }
+]
